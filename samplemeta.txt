@@ -1,0 +1,140 @@
+	site_1	site_2	site_3	N_treatment_1	N_treatment_2
+X144	Carey_1	clipped grassland	USA	Nitrogen	45
+X147	Carey_2	non clipped grassland	USA	Control	0
+X167	Carey_1	clipped grassland	USA	Control	0
+X174	Carey_2	non clipped grassland	USA	Nitrogen	45
+X492	Carey_2	non clipped grassland	USA	Control	0
+X508	Carey_2	non clipped grassland	USA	Nitrogen	45
+X511	Carey_1	clipped grassland	USA	Nitrogen	45
+X517	Carey_1	clipped grassland	USA	Control	0
+X605	Carey_2	non clipped grassland	USA	Control	0
+X608	Carey_1	clipped grassland	USA	Control	0
+X620	Carey_1	clipped grassland	USA	Nitrogen	45
+X622	Carey_2	non clipped grassland	USA	Nitrogen	45
+X651	Carey_2	non clipped grassland	USA	Nitrogen	45
+X654	Carey_1	clipped grassland	USA	Control	0
+X661	Carey_2	non clipped grassland	USA	Control	0
+X664	Carey_1	clipped grassland	USA	Nitrogen	45
+X668	Carey_2	non clipped grassland	USA	Control	0
+X671	Carey_1	clipped grassland	USA	Control	0
+X688	Carey_2	non clipped grassland	USA	Nitrogen	45
+X690	Carey_1	clipped grassland	USA	Nitrogen	45
+X702	Carey_2	non clipped grassland	USA	Control	0
+X704	Carey_1	clipped grassland	USA	Control	0
+X71	Carey_1	clipped grassland	USA	Nitrogen	45
+X711	Carey_1	clipped grassland	USA	Nitrogen	45
+X719	Carey_2	non clipped grassland	USA	Nitrogen	45
+X80	Carey_2	non clipped grassland	USA	Control	0
+X811	Carey_2	non clipped grassland	USA	Nitrogen	45
+X812	Carey_1	clipped grassland	USA	Control	0
+X817	Carey_2	non clipped grassland	USA	Control	0
+X838	Carey_1	clipped grassland	USA	Nitrogen	45
+X89	Carey_1	clipped grassland	USA	Control	0
+X94	Carey_2	non clipped grassland	USA	Nitrogen	45
+SRR1770734	Leff_1	grassland	Switzerland_frue.ch	Nitrogen	100
+SRR1770737	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770738	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770739	Leff_1	grassland	Switzerland_frue.ch	Nitrogen	100
+SRR1770742	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770743	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770744	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770745	Leff_1	grassland	Switzerland_frue.ch	Nitrogen	100
+SRR1770746	Leff_1	grassland	Switzerland_frue.ch	Control	0
+SRR1770749	Leff_2	grassland	Australia_mtca.au	Nitrogen	100
+SRR1770752	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770753	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770755	Leff_2	grassland	Australia_mtca.au	Nitrogen	100
+SRR1770756	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770758	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770760	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770761	Leff_2	grassland	Australia_mtca.au	Nitrogen	100
+SRR1770762	Leff_2	grassland	Australia_mtca.au	Control	0
+SRR1770766	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770767	Leff_3	grassland	South Africa_ukul.za	Nitrogen	100
+SRR1770768	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770770	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770772	Leff_3	grassland	South Africa_ukul.za	Nitrogen	100
+SRR1770773	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770775	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770777	Leff_3	grassland	South Africa_ukul.za	Nitrogen	100
+SRR1770778	Leff_3	grassland	South Africa_ukul.za	Control	0
+SRR1770779	Leff_4	grassland	South Africa_summ.za	Nitrogen	100
+SRR1770782	Leff_4	grassland	South Africa_summ.za	Control	0
+SRR1770783	Leff_4	grassland	South Africa_summ.za	Nitrogen	100
+SRR1770785	Leff_4	grassland	South Africa_summ.za	Control	0
+SRR1770789	Leff_4	grassland	South Africa_summ.za	Control	0
+SRR1770790	Leff_4	grassland	South Africa_summ.za	Nitrogen	100
+SRR1770792	Leff_5	grassland	South Africa_gilb.za	Nitrogen	100
+SRR1770793	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770794	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770797	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770798	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770799	Leff_5	grassland	South Africa_gilb.za	Nitrogen	100
+SRR1770802	Leff_5	grassland	South Africa_gilb.za	Nitrogen	100
+SRR1770804	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770805	Leff_5	grassland	South Africa_gilb.za	Control	0
+SRR1770806	Leff_6	grassland	Australia_burrawan.au	Control	0
+SRR1770807	Leff_6	grassland	Australia_burrawan.au	Nitrogen	100
+SRR1770809	Leff_6	grassland	Australia_burrawan.au	Control	0
+SRR1770812	Leff_6	grassland	Australia_burrawan.au	Control	0
+SRR1770814	Leff_6	grassland	Australia_burrawan.au	Nitrogen	100
+SRR1770815	Leff_6	grassland	Australia_burrawan.au	Control	0
+SRR1770816	Leff_6	grassland	Australia_burrawan.au	Nitrogen	100
+SRR1770818	Leff_6	grassland	Australia_burrawan.au	Control	0
+SRR1770820	Leff_6	grassland	Australia_burrawan.au	Control	0
+CN0_1	Li_1	forest	China	Control	0
+CN0_2	Li_1	forest	China	Control	0
+CN0_3	Li_1	forest	China	Control	0
+CN30_1	Li_1	forest	China	Nitrogen	30
+CN30_2	Li_1	forest	China	Nitrogen	30
+CN30_3	Li_1	forest	China	Nitrogen	30
+CN60_1	Li_1	forest	China	Nitrogen	60
+CN60_2	Li_1	forest	China	Nitrogen	60
+CN60_3	Li_1	forest	China	Nitrogen	60
+CN90_1	Li_1	forest	China	Nitrogen	90
+CN90_2	Li_1	forest	China	Nitrogen	90
+CN90_3	Li_1	forest	China	Nitrogen	90
+IN0_1	Li_2	forest	China	Control	0
+IN0_2	Li_2	forest	China	Control	0
+IN0_3	Li_2	forest	China	Control	0
+IN30_1	Li_2	forest	China	Nitrogen	30
+IN30_2	Li_2	forest	China	Nitrogen	30
+IN30_3	Li_2	forest	China	Nitrogen	30
+IN60_1	Li_2	forest	China	Nitrogen	60
+IN60_2	Li_2	forest	China	Nitrogen	60
+IN60_3	Li_2	forest	China	Nitrogen	60
+IN90_1	Li_2	forest	China	Nitrogen	90
+IN90_2	Li_2	forest	China	Nitrogen	90
+IN90_3	Li_2	forest	China	Nitrogen	90
+A3.B1.1x	McHugh	below.crust	USA	Control	0
+A3.B1.1z	McHugh	below.crust	USA	Control	0
+A3.B1.4x	McHugh	below.crust	USA	Nitrogen	8
+A3.B1.4z	McHugh	below.crust	USA	Nitrogen	8
+A3.B2.5x	McHugh	below.crust	USA	Control	0
+A3.B2.5z	McHugh	below.crust	USA	Control	0
+A3.B2.8x	McHugh	below.crust	USA	Nitrogen	8
+A3.B2.8z	McHugh	below.crust	USA	Nitrogen	8
+A3.B3.12x	McHugh	below.crust	USA	Nitrogen	8
+A3.B3.12z	McHugh	below.crust	USA	Nitrogen	8
+A3.B3.13z	McHugh	below.crust	USA	Control	0
+A3.B3.9x	McHugh	below.crust	USA	Control	0
+A3.B3.9z	McHugh	below.crust	USA	Control	0
+A3.B4.13x	McHugh	below.crust	USA	Control	0
+A3.B4.16x	McHugh	below.crust	USA	Nitrogen	8
+A3.B4.16z	McHugh	below.crust	USA	Nitrogen	8
+A3.B5.17x	McHugh	below.crust	USA	Control	0
+A3.B5.17z	McHugh	below.crust	USA	Control	0
+A3.B5.20x	McHugh	below.crust	USA	Nitrogen	8
+A3.B5.20z	McHugh	below.crust	USA	Nitrogen	8
+KA1F	Obrien	cropland	USA	Nitrogen	67
+KA1U	Obrien	cropland	USA	Control	0
+KA2F	Obrien	cropland	USA	Nitrogen	67
+KA2U	Obrien	cropland	USA	Control	0
+KA3F	Obrien	cropland	USA	Nitrogen	67
+KA3U	Obrien	cropland	USA	Control	0
+CK1	Wang	cropland	China	Control	0
+CK2	Wang	cropland	China	Control	0
+CK3	Wang	cropland	China	Control	0
+N1	Wang	cropland	China	Nitrogen	160
+N2	Wang	cropland	China	Nitrogen	160
+N3	Wang	cropland	China	Nitrogen	160
